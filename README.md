@@ -1,2 +1,2 @@
 # mytest
-brief descr
+This is a test respository for Data Science Applied Public Affairs! 
